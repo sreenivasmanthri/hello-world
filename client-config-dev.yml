@@ -1,0 +1,4 @@
+message: this is client config from dev server hello world
+databaseUrl: localhost:9089
+dbUsername: dev_user
+dbPassword: dev_password
